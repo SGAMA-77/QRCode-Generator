@@ -1,6 +1,8 @@
 # QR Code Generator
 
-This project generates QR codes from text or URLs using Python.
+This project generates QR codes from text or URLs using Python. Used the code to generate a qr code to my linkedIn profile.
+Next steps would be to:
+Make it propmt the user to insert their own URL to generate a unique qrcode specifically to the user's site.
 
 ## Installation
 1. Clone the repository:
